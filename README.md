@@ -33,4 +33,5 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python train.py
 ```
 CUDA_VISIBLE_DEVICES=0,1,2,3 python test.py
 ```
-
+## Reference
+-[1st place in SenseTime2020 competition](https://github.com/LiheYoung/SenseEarth2020-ChangeDetection)
