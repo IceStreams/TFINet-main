@@ -1,4 +1,4 @@
-# SenseEarth2020 - ChangeDetection
+# The paper of "A Difference-Enhanced Semantic Change Detection Network Based on Tri-Branch Feature Interaction".
 
 **1st place in the Satellite Remote Sensing Image Change Detection 
 [Challenge](https://rs.sensetime.com/competition/index.html#/info) 
