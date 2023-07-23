@@ -7,7 +7,7 @@
 
 ### Model
 
-![image](https://github.com/xbysq/TFINet-main/blob/main/img/fig3.pdf)
+![image](https://github.com/xbysq/TFINet-main/blob/main/img/TFINet.png)
 
 ### Pseudo Labeling
 
