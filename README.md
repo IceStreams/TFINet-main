@@ -1,19 +1,9 @@
-# The paper of "A Difference-Enhanced Semantic Change Detection Network Based on Tri-Branch Feature Interaction".
+# The paper "A Difference-Enhanced Semantic Change Detection Network Based on Tri-Branch Feature Interaction"
 
-**1st place in the Satellite Remote Sensing Image Change Detection 
-[Challenge](https://rs.sensetime.com/competition/index.html#/info) 
-hosted by [SenseTime](https://www.sensetime.com/cn).**
+
 
 ## Our Method
 
-### Task Description
-
-Given two images of the same scene acquired at different times, we are required to mark the changed 
-and unchanged areas. Moreover, as for the changed areas, we need to annotate their detailed semantic masks. 
-
-The change detection task in this competition can be decomposed into two sub-tasks:
-* binary segmentation of changed and unchanged areas.
-* semantic segmentation of changed areas.
 
 ### Model
 
