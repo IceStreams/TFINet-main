@@ -1,8 +1,6 @@
 import torch
 from torch.nn import init
 from torch.optim import lr_scheduler
-from models.sseg.BasicNet import BasicNet
-from models.sseg.FC_EF import FC_EF
 from models.sseg.SCDNet import SCDNet
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
@@ -79,11 +77,7 @@ def init_net(net, init_type='normal', init_gain=0.02):
     return net
 
 def get_model(model, init_type='normal', init_gain=0.02):
-    if model == 'FC_EF':
-        model = FC_EF(input_nbr=3)
-    elif model == 'BasicNet':
-        model = BasicNet()
-    elif model == 'SCDNet':
+    if model == 'SCDNet':
         model = SCDNet()
     else:
         exit("\nError: MODEL \'%s\' is not implemented!\n" % model)
