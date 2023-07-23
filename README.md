@@ -7,7 +7,7 @@
 
 ### Model
 
-![image](https://github.com/LiheYoung/SenseEarth2020-ChangeDetection/blob/master/docs/pipeline.png)
+![image](https://github.com/xbysq/TFINet-main/blob/main/img/fig3.pdf)
 
 ### Pseudo Labeling
 
