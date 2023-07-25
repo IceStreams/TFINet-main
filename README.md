@@ -7,7 +7,7 @@
 
 ### Model
 
-![image](https://github.com/xbysq/TFINet-main/blob/main/img/TFINet.png)
+[](![image](https://github.com/xbysq/TFINet-main/blob/main/img/TFINet.png))
 
 
 
