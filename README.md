@@ -41,3 +41,5 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python test.py
 Continuing to publicize
 
 - [sscdl and bisrnet]()
+
+The code regarding the CD will also be made public subsequently.
