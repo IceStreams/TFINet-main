@@ -42,4 +42,4 @@ Continuing to publicize
 
 - [sscdl and bisrnet]()
 
-**The code regarding the CD will also be made public subsequently.
+**The code regarding the Binary Change Detection (BCD) will also be made public subsequently.
